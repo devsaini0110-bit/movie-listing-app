@@ -8,10 +8,6 @@ function MovieCard(props) {
 
         <p>Year: {props.year}</p>
 
-        <p>Genre: {props.genre}</p>
-
-        <p>Rating: ⭐ {props.rating}</p>
-
         <button>Watch Now</button>
       </div>
     </div>
